@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Counter from './components/Counter'
 import './App.css';
 import Todos from './components/Todos';
